@@ -30,3 +30,9 @@ WebUI.setText(findTestObject('Object Repository/Login/input_Password'), Password
 WebUI.click(findTestObject('Object Repository/Login/btn_Login'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login/text_Dashboard'), 0)
+
+WebUI.click(findTestObject('Logout/Profile'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Logout/btn_Logout'))

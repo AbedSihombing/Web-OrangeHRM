@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Logout</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ba4d4e23-5cef-4768-977d-e3b7984831b9</testCaseGuid>
+   <testCaseGuid>0c839c69-5399-466c-bd65-dd56b6497bc5</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>c7a8c327-12ff-4798-8a90-884c6ea43cfd</variableId>
+      <variableId>5283c8f5-3697-4c07-84eb-6df977662030</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>d1927849-5cd2-4bf6-95dd-97dd1d94e1d3</variableId>
+      <variableId>d0e7ec2b-3a59-4b8f-b3a6-11d1c49c8424</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'Admin'</defaultValue>
       <description></description>
-      <id>c7a8c327-12ff-4798-8a90-884c6ea43cfd</id>
+      <id>5283c8f5-3697-4c07-84eb-6df977662030</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'admin123'</defaultValue>
       <description></description>
-      <id>d1927849-5cd2-4bf6-95dd-97dd1d94e1d3</id>
+      <id>d0e7ec2b-3a59-4b8f-b3a6-11d1c49c8424</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>
